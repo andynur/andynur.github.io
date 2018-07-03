@@ -1,1 +1,22 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: Andy Nur Web Profile
+description: Andy Nur, andynur, andy samarinda, qodr, santri qodr, andy qodr
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+url: "http://andynur.me"
+
+# User settings
+username: Andy Nur
+user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+user_title: Backend Developer
+email: andynur.id@gmail.com
+facebook_username: andynur.id
+twitter_username: _andynur
+gplus_username:  andynur
+github_username:  andynur
+linkedin_username:  andynur
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
