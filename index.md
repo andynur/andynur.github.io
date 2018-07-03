@@ -1,3 +1,0 @@
-## Coming Soon
-
-Keep calm website is under construction...
