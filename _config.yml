@@ -1,12 +1,12 @@
 # Site settings
-title: Andy Nur Web Profile
+title: Andy Nur Web - Teach and Learning
 description: Andy Nur, andynur, andy samarinda, qodr, santri qodr, andy qodr
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-url: "http://andynur.me"
+url: "http://andynur.my.id"
 
 # User settings
 username: Andy Nur
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+user_description: Manusia biasa yang ingin menjadi seorang muslim sejati.
 user_title: Backend Developer
 email: andynur.id@gmail.com
 facebook_username: andynur.id
@@ -17,6 +17,6 @@ linkedin_username:  andynur
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-150464709-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
