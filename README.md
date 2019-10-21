@@ -1,7 +1,7 @@
-# andynur.me
+# andynur.my.id
 
-My official personal site, resume and blog.
+My official personal site for cv, portfolio and blog.
 
 ## Credits
 
-This original jekyll theme from [nrandecker](https://github.com/nrandecker/particle).
+Original jekyll theme from [nrandecker](https://github.com/nrandecker/particle).
