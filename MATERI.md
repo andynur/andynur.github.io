@@ -3,7 +3,8 @@
 Berikut daftar materi atau skill dasar yang hendaknya sudah dipelajari sebelum mengikut kelas pra magang.
 
 ## WEB DEVELOPMENT
-- [HTML Dasr](https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F)
+### Video
+- [HTML Dasar](https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F)
 - [CSS Dasar](https://www.youtube.com/playlist?list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p)
 - [CSS Layouting](https://www.youtube.com/playlist?list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr)
 - [CSS3](https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa) (opsional)
@@ -13,13 +14,17 @@ Berikut daftar materi atau skill dasar yang hendaknya sudah dipelajari sebelum m
 - [PHP Dasar](https://www.youtube.com/playlist?list=PLFIM0718LjIUqXfmEIBE3-uzERZPh3vp6)
 - [PHP OOP](https://www.youtube.com/playlist?list=PLFIM0718LjIWvxxll-6wLXrC_16h_Bl_p)
 
+### Materi Bacaan
+- [HTML - HTML5](https://www.duniailkom.com/tutorial-belajar-html-dan-index-artikel-html/)
+- [CSS Dasar - CSS3](https://www.duniailkom.com/tutorial-belajar-css-dan-index-artikel-css/)
+- [PHP Dasar - OOP](https://www.duniailkom.com/tutorial-belajar-php-dan-index-artikel-php/)
+- [MySQL](https://www.duniailkom.com/tutorial-belajar-mysql-dan-index-artikel-mysql/)
+
 ## ANDROID DEVELOPMENT
 Minimum Spek RAM 4GB, Intel Core i3 / Amd A9 / Yang Setara, VGA (optional)
 
 - [Kelas Kotlin Pemula Dicoding](https://www.dicoding.com/academies/80)
 - [Kelas Java Dicoding](https://www.dicoding.com/academies/60) (optional)
-
-
 
 #
 
