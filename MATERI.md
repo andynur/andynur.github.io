@@ -11,7 +11,7 @@ Berikut daftar materi atau skill dasar yang hendaknya sudah dipelajari sebelum m
 - [Javascript DOM](https://www.youtube.com/playlist?list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3)
 - [Javascript Lanjutan](https://www.youtube.com/playlist?list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-) (opsional)
 - [PHP Dasar](https://www.youtube.com/playlist?list=PLFIM0718LjIUqXfmEIBE3-uzERZPh3vp6)
-- [PHP OOP](https://www.youtube.com/playlist?list=PLFIM0718LjIWvxxll-6wLXrC_16h_Bl_p)r
+- [PHP OOP](https://www.youtube.com/playlist?list=PLFIM0718LjIWvxxll-6wLXrC_16h_Bl_p)
 
 ## ANDROID DEVELOPMENT
 Minimum Spek RAM 4GB, Intel Core i3 / Amd A9 / Yang Setara, VGA (optional)
