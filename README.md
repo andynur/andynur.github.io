@@ -1,4 +1,5 @@
-# My personal site at [https://andynur.my.id](https://andynur.my.id)
+# Personal site
+[https://andynur.my.id](https://andynur.my.id)
 
 ## Motivation
 
