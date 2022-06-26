@@ -24,4 +24,4 @@ All images in this blog are from [Unsplash](https://unsplash.com/), [imgur](http
 
 ---
 
-Copyright (c) 2022 Andy Nur (Andy) - Alrights reserved.
+Copyright (c) 2022 Andy Nur - Alrights reserved.
