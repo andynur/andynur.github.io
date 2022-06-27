@@ -1,127 +1,73 @@
 const timelineData = [
   {
-    time: 'Mar 2022 - now',
-    role: 'Self-employed',
-  },
-  {
-    time: 'May 2021 - Feb 2022',
+    time: 'Jan 2022 - Present',
     role: 'Software Engineer',
-    company: 'FoxEcom',
-    companyURL: 'https://foxecom.com/',
+    company: 'Inovasky (Part of AVIANA)',
+    companyURL: 'https://aviana.co.id/',
     works: [
       <>
-        Built{' '}
-        <a
-          target="_blank"
-          rel="noopener noreferrer"
-          href="https://themeforest.net/item/minimog-the-high-converting-shopify-theme/33380968"
-        >
-          Minimog
+        Develop{' '}
+        <a target="_blank" rel="noopener noreferrer" href="http://irmastore.id">
+          BEKEN
         </a>{' '}
-        - The Next Generation Shopify Theme (Weekly Bestseller and Top Trending in eCommerce
-        category)
+        : new products related to b2b integration in IRMA application
       </>,
+      <>Collaborate with other developers to update the website and create new features</>,
       <>
-        Built{' '}
-        <a
-          target="_blank"
-          rel="noopener noreferrer"
-          href="https://apps.shopify.com/foxecom-boost-sales"
-        >
-          Fox Kit Shopify App
-        </a>{' '}
-        - The upsells and boost conversion tools that is built to support Minimog theme
+        Leveraged knowledge in REST API, Go-lang, Spring Framework, MySQL, Next.js, MicroService
+        Integration
       </>,
     ],
   },
   {
-    time: 'May 2020 - Apr 2020',
-    role: 'Frontend Engineer',
-    company: 'Coc Coc',
-    companyURL: 'https://coccoc.com/',
-    companyBio: '#1 web browser in Viet Nam with more than 25M users',
+    time: 'Jan 2021 - Dec 2021',
+    role: 'Project Manager',
+    company: 'Indeks Media Teknologi',
+    companyURL: 'https://indeksmediateknologi.co.id/',
     works: [
       <>
-        Built{' '}
-        <a target="_blank" rel="noopener noreferrer" href="https://coccoc.com/webhp">
-          Coc Coc's newsfeed
-        </a>{' '}
-        (with Team Leader)
+        Worked closely with vendor, data analyst and development teams to define the scope of each
+        project and the schedule of deliverables
       </>,
-      `Maintain and optimize Newtab's widget and performance`,
-    ],
-  },
-  {
-    time: 'Aug 2018 - Apr 2020',
-    role: 'Fullstack Developer',
-    company: 'Pagefly',
-    companyURL: 'https://apps.shopify.com/pagefly',
-    companyBio: 'Top 3 Page Builder app on Shopify',
-    works: [
-      `Built Pagefly's Analytics APIs`,
       <>
-        Built{' '}
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/sellersmith/slider-x">
-          Slider-x
-        </a>
+        Using Agile method, ensured the software development team had the resources to meet
+        deadlines and escalated roadblocks to management when necessary
+      </>,
+      <>
+        Handling one large-scale application project related to building certification for overseas
+        clients (Japanese third-party organizations))
+      </>,
+      <>
+        Leveraged knowledge in REST API, Laravel, Vue.js, Oracle, MySQL, Docker, Deployment, Project
+        Management
       </>,
     ],
   },
   {
-    time: 'May 2017 - Jul 2018',
-    role: 'Coding Instructor and Developer',
-    company: 'MindX - Technology School',
-    companyURL: 'https://mindx.edu.vn/',
-    companyBio: '(aka Techkids)',
+    time: 'Jan - Jun 2020 / Jul - Dec 2019 & Jul - Dec 2018',
+    role: 'Junior Project Manager / Backend Developer',
+    company: 'Thortech Asia Software',
+    companyURL: 'https://thortech.asia/',
     works: [
       <>
-        Built{' '}
-        <a target="_blank" rel="noopener noreferrer" href="http://lok.vn">
-          Love of Knowledge
-        </a>{' '}
-        (Front-end part)
+        Build and maintain Inventory (Stock Management System) and VMS (Vehicle Management System)
+        applications for coal mining companies
       </>,
       <>
-        Built{' '}
-        <a
-          target="_blank"
-          rel="noopener noreferrer"
-          href="https://hta218.github.io/get-a-room-api-docs/"
-        >
-          Room Finder APIs
-        </a>
+        Build and maintain Mail Management Applications and Company Profiles for Government
+        Institution
       </>,
-      <>
-        Built{' '}
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/hta218/Travel_Egypt">
-          Travel Egypt
-        </a>{' '}
-        - a picture puzzle game made by pygame (Python)
-      </>,
-      'Tech Python fundamentals and Python web development',
+      <>Leveraged knowledge in Laravel, React.js, MySQL, Deployment, Project Management</>,
     ],
   },
   {
-    time: 'Sep 2013 - Feb 2019 (Move to Ha Noi city)',
-    role: 'Study Electronics and Telecommunications',
-    company: 'Hanoi University of Science and Technology',
-    companyURL: 'https://www.hust.edu.vn/',
-  },
-  {
-    time: 'Before 2013',
-    role: (
-      <>
-        Grown up in{' '}
-        <a
-          target="_blank"
-          rel="noopener noreferrer"
-          href="https://en.wikipedia.org/wiki/M%E1%BB%99c_Ch%C3%A2u_District"
-        >
-          Moc Chau
-        </a>{' '}
-        District
-      </>
-    ),
+    time: 'Aug 2017 - Jul 2018',
+    role: 'Junior Backend Developer (Freelance)',
+    company: 'QODR',
+    works: [
+      `Develop several applications for Regional Companies and Government Institution`,
+      `Leveraged knowledge in PHP, CodeIgniter, Laravel, Phalcon Framework, MySQL`,
+    ],
   },
 ]
 

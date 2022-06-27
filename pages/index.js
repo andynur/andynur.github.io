@@ -42,9 +42,9 @@ export default function Home({ posts }) {
               </h1>
               <TypedBios />
               <p className="mt-4 mb-8">
-                Solution-oriented and problem solver with 4+ years of experience building and maintaining
-                software and managing development team. Highly skilled in communication, collaboration, and
-                technical documentation.
+                Solution-oriented and problem solver with 4+ years of experience building,
+                maintaining application and managing development team. Highly skilled in
+                communication, collaboration, and technical documentation.
               </p>
               <div className="flex flex-col">
                 <Link href="/projects" className="hover:underline">

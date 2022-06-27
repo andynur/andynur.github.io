@@ -17,8 +17,6 @@ This blog is hosted on [Vercel](https://vercel.com/), built with [Next.js](https
 
 A huge thanks to [Timothy Lin](https://twitter.com/timlrxx) for the minimal, lightweight, and super easy-to-customize blog starter.
 
-_The legacy version built with **Gatsby** can be found [here](https://leo-blog-legacy.vercel.app/)_.
-
 ## Images
 
 All images in this blog are from [Unsplash](https://unsplash.com/), [imgur](https://imgur.com) and [GIPHY](https://giphy.com/) - Thanks for the free resources!
