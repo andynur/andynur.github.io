@@ -22,13 +22,10 @@ const TypedBios = () => {
   return (
     <div>
       <ul id="bios" className="hidden">
-        <li>Blockchain Technology Enhusiast & Agnostic Backend Engineer.</li>
-        <li>Expertise in Laravel Framework (PHP) & Go-lang.</li>
-        <li>In the process of exploring Spring Framework in Java.</li>
-        <li>
-          Currently focusing on develop PPOB (Payment Point Online Bank) 
-          platform for corporate partner.
-        </li>
+        <li>Passionate Full Stack Developer and WEB3 Enthusiast.</li>
+        <li>Expertise in Next JS, Nest JS, Laravel Framework (PHP) and Go-lang.</li>
+        <li>In the process of exploring WEB3 space and Blockchain technology.</li>
+        <li>Currently focusing on develop AI generative image based on StableDiffusion models.</li>
       </ul>
       <span ref={el} className="text-neutral-900 dark:text-neutral-200" />
     </div>
