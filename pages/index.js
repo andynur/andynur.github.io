@@ -28,7 +28,7 @@ export default function Home({ posts }) {
             <p
               className={`mb-8 text-4xl leading-[60px] font-extrabold tracking-tight text-transparent bg-clip-text ${headingColorClass} md:text-7xl md:leading-[86px]`}
             >
-              Howdy, fellow! <i className="twa twa-waving-hand"></i>
+              Hello, world! <i className="twa twa-waving-hand"></i>
             </p>
 
             <div className="text-lg leading-8 text-gray-600 dark:text-gray-400">
@@ -42,7 +42,7 @@ export default function Home({ posts }) {
               </h1>
               <TypedBios />
               <p className="mt-4 mb-8">
-                Solution-oriented and problem solver with 4+ years of experience building,
+                Solution-oriented and problem solver with 5+ years of experience building,
                 maintaining application and managing development team. Highly skilled in
                 communication, collaboration, and technical documentation.
               </p>
