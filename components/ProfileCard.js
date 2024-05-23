@@ -1,9 +1,8 @@
+import fetcher from '@/lib/fetcher'
 import Image from 'next/image'
 import { useCallback, useEffect, useRef, useState } from 'react'
 import useSWR from 'swr'
-import fetcher from '@/lib/fetcher'
 import Twemoji from './Twemoji'
-import Link from 'next/link'
 
 const ProfileCard = () => {
   const { data } = useSWR('/api/spotify', fetcher)
@@ -120,8 +119,7 @@ const Spotify = ({ data }) => {
 const ProfileInfo = () => (
   <div className="hidden xl:block xl:px-6 py-4">
     <h1 className="text-xl font-semibold text-gray-800 dark:text-white">Andy Nur</h1>
-    <p className="py-2 text-gray-700 dark:text-gray-400">Continues Learner 
-      | Product Management | Part-time Traveler</p>
+    <p className="py-2 text-gray-700 dark:text-gray-400">Continues Learner | Part-time Traveler</p>
     <div className="flex items-center mt-4 text-gray-700 dark:text-gray-200">
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -138,7 +136,7 @@ const ProfileInfo = () => (
         />
       </svg>
 
-      <p className="px-2 text-[15px]">Software Engineer - Inovasky</p>
+      <p className="px-2 text-[15px]">Full Stack Developer</p>
     </div>
 
     <div className="flex items-center mt-4 text-gray-700 dark:text-gray-200">
@@ -164,7 +162,7 @@ const ProfileInfo = () => (
       </svg>
 
       <p className="px-2 text-[15px]">
-        Denpasar, Bali 
+        Bali, Indonesia
         <span className="align-middle flag-vn ml-1">
           <Twemoji emoji="flag-indonesia" />
         </span>

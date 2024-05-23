@@ -1,18 +1,18 @@
 const projectsData = [
-  // {
-  //   title: 'Formulir',
-  //   description: `BEKEN is a part of IRMA super app that is integrated for b2b purposes. IRMA is a complete service provider for all legal digital financial transaction needs for its users. Build with Beego Framework (Go-lang), Next.js Framework (React.js) and Tailwind CSS.`,
-  //   imgSrc: '/static/images/porto/beken.png',
-  //   href: 'http://mengantar.com/',
-  //   type: 'work',
-  // },
-  // {
-  //   title: 'LP Builder',
-  //   description: `BEKEN is a part of IRMA super app that is integrated for b2b purposes. IRMA is a complete service provider for all legal digital financial transaction needs for its users. Build with Beego Framework (Go-lang), Next.js Framework (React.js) and Tailwind CSS.`,
-  //   imgSrc: '/static/images/porto/beken.png',
-  //   href: 'http://mengantar.com/',
-  //   type: 'work',
-  // },
+  {
+    title: 'Formulir',
+    description: `An online form-filling web application designed for small and medium-sized enterprises (SMEs). It simplifies the process for business owners to promote their products by creating and sharing forms with potential buyers. Build with ExpressJS, Next.js, Shadcn UI and MongoDB`,
+    imgSrc: '/static/images/porto/formulir.png',
+    href: 'http://mengantar.com/',
+    type: 'work',
+  },
+  {
+    title: 'LP Builder Analytics',
+    description: `A web application for creating landing pages, tailored for SMEs to promote their businesses effectively. I was involved in developing the web analytics feature of this application. Build with Nuxt.js Framework (Vue), Express.js and MongoDB.`,
+    imgSrc: '/static/images/porto/lpbuilder.png',
+    href: 'http://mengantar.com/',
+    type: 'work',
+  },
   {
     title: 'BEKEN',
     description: `BEKEN is a part of IRMA super app that is integrated for b2b purposes. IRMA is a complete service provider for all legal digital financial transaction needs for its users. Build with Beego Framework (Go-lang), Next.js Framework (React.js) and Tailwind CSS.`,
