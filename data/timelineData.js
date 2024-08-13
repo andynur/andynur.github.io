@@ -1,48 +1,47 @@
 const timelineData = [
   {
-    time: 'Oct 2023 - Present',
+    time: 'Oct 2023 - Apr 2024',
     role: 'Full Stack Developer',
     company: 'Mengantar',
     companyURL: 'https://www.mengantar.com/',
     works: [
       <>
-        Spearheaded the development of cutting-edge Landing Page Builder and Web Analytics
-        applications using Next.js, Express.js, and MongoDB, resulting in streamlined user
-        experiences and enhanced performance.
+        Contributed the creation of innovative Landing Page Builder and User Analytics applications,
+        significantly improving user engagement and performance metrics..
       </>,
       <>
-        Innovated the creation of dynamic Form Builder apps using Nuxt.js, Express.js, and MongoDB,
-        revolutionizing data collection and management processes.
+        Collaborated with cross-functional teams using Agile methodologies to implement new features
+        seamlessly, ensuring high levels of user satisfaction and retention.
       </>,
       <>
-        Collaborated closely with cross-functional teams to update and implement new features,
-        ensuring seamless integration and user satisfaction.
-      </>,
-      <>
-        Demonstrated expertise in REST API, TypeScript, CI/CD, and Scrum methodologies, driving
-        efficiency and quality in development processes.
+        Leveraged expertise in TypeScript, Express.js, Nest.js, MongoDB, React.js, Next.js,
+        Storybook, Tailwind CSS, Shadcn UI and Scrum methodologies to improve development processes
+        and efficiency.
       </>,
     ],
   },
   {
-    time: 'Jan 2022 - Dec 2023',
+    time: 'Jan 2022 - March 2023',
     role: 'Backend Developer',
     company: 'Aviana',
     companyURL: 'https://aviana.co.id/',
     works: [
       <>
-        Orchestrated the development and maintenance of the PPOB (Payment Point Online Bank)
-        platform for esteemed corporate partners, ensuring secure and efficient transaction
-        processing.
+        Developed an Online Payment Platform that streamlined bill payments, mobile top-ups, and
+        other financial transactions, significantly enhancing user experience and satisfaction.
       </>,
       <>
-        Engaged in dynamic collaboration with fellow developers to continuously enhance the website,
-        pioneering new features and functionalities.
+        Implemented microservices architecture, integrating with digital payment products from
+        Tokopedia and payment gateway solutions with Xendit and LinkAja, ensuring seamless financial
+        operations.
       </>,
       <>
-        Applied advanced expertise in REST API, Golang, Spring Framework, MySQL, Next.js, and
-        MicroService Integration, elevating the platform's performance and scalability to new
-        heights.
+        Integrated ID document recognition and liveness detection services from AdvanceAI to
+        streamline user onboarding processes.
+      </>,
+      <>
+        Leveraged expertise in Go-lang, Nest.js, Spring Framework, PostgreSQL, Redis, RabbitMQ to
+        elevate the platform's performance and scalability.
       </>,
     ],
   },
@@ -53,26 +52,42 @@ const timelineData = [
     companyURL: 'https://indeksmediateknologi.co.id/',
     works: [
       <>
-        Managed a large-scale project for Japanese third-party organizations, overseeing the
-        development of a certification system for overseas clients.
+        Developed and managed Inventory and Vehicle Management Systems for coal mining companies,
+        optimizing operational efficiency and effectiveness.
       </>,
       <>
-        Using Agile method, ensured the software development team had the resources to meet
-        deadlines and escalated roadblocks to management when necessary
+        Developed company profiles website for Government Institutions, improving communication and
+        showcasing institutional capabilities effectively.
       </>,
       <>
-        Worked closely with vendor, data analyst and development teams to define the scope of each
-        project and the schedule of deliverables
-      </>,
-      <>
-        Leveraged knowledge in REST API, Laravel, Vue.js, Oracle, MySQL, Docker, Deployment, Project
-        Management
+        Leveraged Laravel, Vue.js, MySQL skills to deliver high-quality backend solutions and
+        streamline development processes.
       </>,
     ],
   },
   {
-    time: 'Jul 2018 - Jun 2020',
-    role: 'Junior Project Manager & Backend Developer',
+    time: 'Jan 2020 - Jun 2020',
+    role: 'Junior Project Manager ',
+    company: 'Thortech Asia',
+    companyURL: 'https://thortech.asia/',
+    works: [
+      <>
+        Led the project planning process from initiation to completion, ensuring all deadlines were
+        met.
+      </>,
+      <>
+        Collaborated effectively with team members to brainstorm ideas, delegate tasks, and achieve
+        project objectives.
+      </>,
+      <>
+        Maintained open and clear communication with clients to provide regular updates, address
+        concerns, and gather feedback.
+      </>,
+    ],
+  },
+  {
+    time: 'Jul 2018 - Dec 2019',
+    role: 'Backend Developer',
     company: 'Thortech Asia',
     companyURL: 'https://thortech.asia/',
     works: [
