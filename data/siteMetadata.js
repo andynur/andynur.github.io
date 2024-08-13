@@ -14,7 +14,7 @@ const siteMetadata = {
   socialBanner: '/static/images/logo.jpg',
   email: 'andynur.id@gmail.com',
   github: 'https://github.com/andynur',
-  twitter: 'https://twitter.com/andynur_dev',
+  twitter: 'https://x.com/andynur_dev',
   facebook: 'https://facebook.com/andynur.id',
   youtube: 'https://www.youtube.com/channel/UCHXjj6ewfDIjx_Op3hqijlg',
   linkedin: 'https://www.linkedin.com/in/andynur/',

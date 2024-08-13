@@ -3,7 +3,7 @@ name: Sparrow Hawk
 avatar: /static/images/sparrowhawk-avatar.jpg
 occupation: Wizard of Earthsea
 company: Earthsea
-twitter: https://twitter.com/sparrowhawk
+twitter: https://x.com/sparrowhawk
 linkedin: https://www.linkedin.com/sparrowhawk
 ---
 

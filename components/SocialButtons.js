@@ -1,11 +1,11 @@
-import { FacebookShareButton, TwitterShareButton } from 'react-share'
-import TwitterIcon from '@/components/social-icons/twitter.svg'
-import FacebookIcon from '@/components/social-icons/facebook.svg'
 import Link from '@/components/Link'
+import FacebookIcon from '@/components/social-icons/facebook.svg'
+import TwitterIcon from '@/components/social-icons/twitter.svg'
 import siteMetadata from '@/data/siteMetadata'
+import { FacebookShareButton, TwitterShareButton } from 'react-share'
 
 const editUrl = (fileName) => `${siteMetadata.siteRepo}/blob/main/data/blog/${fileName}`
-const discussUrl = (postUrl) => `https://twitter.com/search?q=${encodeURIComponent(postUrl)}`
+const discussUrl = (postUrl) => `https://x.com/search?q=${encodeURIComponent(postUrl)}`
 
 const SocialButtons = ({ postUrl, title, fileName }) => {
   return (

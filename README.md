@@ -15,7 +15,7 @@ It would be highly appreciated if I could read your comment on what I wrote
 
 This blog is hosted on [Vercel](https://vercel.com/), built with [Next.js](https://nextjs.org/) ([Preact](https://preactjs.com/) for production) and [Tailwind CSS](https://tailwindcss.com/) using **Tailwind Nextjs Starter Blog**.
 
-A huge thanks to [Timothy Lin](https://twitter.com/timlrxx) for the minimal, lightweight, and super easy-to-customize blog starter.
+A huge thanks to [Timothy Lin](https://x.com/timlrxx) for the minimal, lightweight, and super easy-to-customize blog starter.
 
 ## Images
 
