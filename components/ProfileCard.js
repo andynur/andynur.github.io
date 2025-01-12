@@ -59,7 +59,7 @@ const ProfileCard = () => {
           className="flex flex-col transition-all duration-200 ease-out xl:shadow-lg shadow-cyan-100/50 dark:shadow-cyan-700/50 xl:rounded-lg bg-white dark:bg-dark overflow-hidden"
         >
           <Image
-            src={'/static/images/logo.jpg'}
+            src={'/static/images/logo.png'}
             alt="avatar"
             width="550px"
             height="350px"
