@@ -34,8 +34,8 @@ export default function Home({ posts }) {
             <div className="text-lg leading-8 text-gray-600 dark:text-gray-400">
               <h1 className="text-neutral-900 dark:text-neutral-200">
                 I'm <span className="font-medium">Andy</span> - an open-minded{' '}
-                <span className="font-medium">Software Engineer</span> in Bali{' '}
-                <span className="font-medium hidden">Bali, Indonesia</span>
+                <span className="font-medium">Software Engineer</span> in Yogyakarta{' '}
+                <span className="font-medium hidden">Yogyakarta, Indonesia</span>
                 <span className="align-middle flag-vn">
                   <Twemoji emoji="flag-indonesia" />
                 </span>

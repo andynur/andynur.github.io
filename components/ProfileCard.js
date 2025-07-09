@@ -162,7 +162,7 @@ const ProfileInfo = () => (
       </svg>
 
       <p className="px-2 text-[15px]">
-        Bali, Indonesia
+        Yogyakarta, Indonesia
         <span className="align-middle flag-vn ml-1">
           <Twemoji emoji="flag-indonesia" />
         </span>
